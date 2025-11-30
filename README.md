@@ -1,30 +1,37 @@
 <div align="center">
 
-![Minecraft Header](https://i.imgur.com/fJMsYKy.png)
-
 # ⚔️ Welcome to Yuvraj's World
 
-### `Building apps, one block at a time`
+```
+██╗   ██╗██╗   ██╗██╗   ██╗██████╗  █████╗      ██╗
+╚██╗ ██╔╝██║   ██║██║   ██║██╔══██╗██╔══██╗     ██║
+ ╚████╔╝ ██║   ██║██║   ██║██████╔╝███████║     ██║
+  ╚██╔╝  ██║   ██║╚██╗ ██╔╝██╔══██╗██╔══██║██   ██║
+   ██║   ╚██████╔╝ ╚████╔╝ ██║  ██║██║  ██║╚█████╔╝
+   ╚═╝    ╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ 
+```
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-yuvraj.onrender.com/)
+### `Building apps, one block at a time 🎮`
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-yuvraj.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajsinghrathore25)
 
 </div>
 
 ---
 
-## 📦 My Inventory
+## 🎒 My Inventory
 
 <div align="center">
 
-### Android Arsenal
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+### ⚔️ Android Arsenal
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
-### Cross-Platform Tools
-<img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP"/> <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose MP"/> <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor"/>
+### 🌐 Cross-Platform Magic
+<img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white"/>
 
-### iOS Gear
-<img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+### 🍎 iOS Toolbelt
+<img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 
 </div>
 
@@ -39,17 +46,20 @@
 <td>
 
 ```
-╔════════════════════════════════╗
-║  📱 MOBILE APPS DEPLOYED       ║
-║  ✅ Production apps running    ║
-║  🔒 Best work in private repos ║
-║  🎯 Cross-platform mastery     ║
-╚════════════════════════════════╝
+╔═══════════════════════════════╗
+║  📱 MOBILE APPS DEPLOYED      ║
+║  ✅ Production apps running   ║
+║  🔒 Best work in private      ║
+║  🎯 Cross-platform expert     ║
+║  ⚡ Self-Employed Developer   ║
+╚═══════════════════════════════╝
 ```
 
 </td>
-<td>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" alt="Minecraft Building"/>
+<td width="200">
+
+![Minecraft Steve](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png)
+
 </td>
 </tr>
 </table>
@@ -58,21 +68,21 @@
 
 ---
 
-## 💼 Character Stats
+## 💻 Character Stats
 
 ```kotlin
 class YuvrajDev : MobileDeveloper() {
     
     override val expertise = listOf(
-        "📱 Native Android",
+        "📱 Native Android Apps",
         "🌐 Kotlin Multiplatform", 
         "🍎 iOS Development",
-        "🎨 Pixel-Perfect UIs"
+        "🎨 Stunning UX/UI"
     )
     
     override val workMode = "Self-Employed"
     
-    override val approach = "Simple. Fun. Fast."
+    override val philosophy = "Simple. Fun. Fast."
     
     fun craft() = repeat(∞) {
         design() + code() + test() + ship()
@@ -82,30 +92,28 @@ class YuvrajDev : MobileDeveloper() {
 
 ---
 
-## 🎯 Currently Mining
+## ⚡ Currently Mining
 
 <div align="center">
 
-| 🔨 Focus Area | 🎮 Status |
-|:---:|:---:|
-| Native Android Apps | ![](https://img.shields.io/badge/⚡_Expert-success) |
-| Kotlin Multiplatform | ![](https://img.shields.io/badge/🚀_Building-blue) |
-| SwiftUI for iOS | ![](https://img.shields.io/badge/📚_Learning-orange) |
-| Beautiful UX/UI | ![](https://img.shields.io/badge/🎨_Always-purple) |
+| 🔨 Focus Area | 🎮 Level |
+|:---|:---:|
+| Native Android Development | ![Expert](https://img.shields.io/badge/⚡_Expert-success?style=flat-square) |
+| Kotlin Multiplatform | ![Building](https://img.shields.io/badge/🚀_Mastering-blue?style=flat-square) |
+| SwiftUI & iOS | ![Learning](https://img.shields.io/badge/📚_Learning-orange?style=flat-square) |
+| Beautiful UI/UX | ![Always](https://img.shields.io/badge/🎨_Always-purple?style=flat-square) |
 
 </div>
 
 ---
 
-## 💬 Want to Team Up?
+## 🤝 Want to Team Up?
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" alt="Minecraft Handshake"/>
+### Let's build something legendary together! 🎯
 
-**Let's build something awesome together!**
-
-**[🌐 Check My Work](https://portfolio-yuvraj.onrender.com/)** • **[💼 Let's Connect](https://www.linkedin.com/in/yuvrajsinghrathore25)**
+**[🌐 Check My Portfolio](https://portfolio-yuvraj.onrender.com/)** • **[💼 Connect on LinkedIn](https://www.linkedin.com/in/yuvrajsinghrathore25)**
 
 </div>
 
@@ -114,18 +122,18 @@ class YuvrajDev : MobileDeveloper() {
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  "Important repos are private.                  │
-│   Better luck next time 😉"                     │
-│                                                 │
-└─────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║   "Important repos are private.                    ║
+║    Better luck next time 😉"                       ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
-<img src="https://i.imgur.com/kRalGde.gif" width="300" alt="Minecraft Grass Block"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="100"/>
 
-*Crafted with ☕ and countless debug sessions*
+*Crafted with ☕ caffeine and countless debug sessions*
 
-![](https://komarev.com/ghpvc/?username=pixel-yuvraj&color=green&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=pixel-yuvraj&color=green&style=flat-square&label=👀_Visitors)
 
 </div>
