@@ -1,115 +1,111 @@
-# 🎮 Welcome to Yuvraj's Crafting Table
-
-```
-███╗   ███╗██╗███╗   ██╗███████╗ ██████╗██████╗  █████╗ ███████╗████████╗
-████╗ ████║██║████╗  ██║██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝╚══██╔══╝
-██╔████╔██║██║██╔██╗ ██║█████╗  ██║     ██████╔╝███████║█████╗     ██║   
-██║╚██╔╝██║██║██║╚██╗██║██╔══╝  ██║     ██╔══██╗██╔══██║██╔══╝     ██║   
-██║ ╚═╝ ██║██║██║ ╚████║███████╗╚██████╗██║  ██║██║  ██║██║        ██║   
-╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝   
-                    ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴍᴏᴅᴇ: ꜱᴜʀᴠɪᴠᴀʟ
-```
-
 <div align="center">
 
-### 👨‍💻 `Building apps, one block at a time`
+![Minecraft Header](https://i.imgur.com/fJMsYKy.png)
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Grass_Block-00AA00?style=for-the-badge&labelColor=654321)](https://portfolio-yuvraj.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Diamond_Block-0077B5?style=for-the-badge&labelColor=005A8C)](https://www.linkedin.com/in/yuvrajsinghrathore25)
+# ⚔️ Welcome to Yuvraj's World
+
+### `Building apps, one block at a time`
+
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-yuvraj.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajsinghrathore25)
 
 </div>
 
 ---
 
-## 📦 Inventory (Tech Stack)
+## 📦 My Inventory
 
 <div align="center">
 
-| 🟩 **Android Blocks** | 🟦 **Cross-Platform Blocks** | 🟪 **iOS Blocks** |
-|:---:|:---:|:---:|
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white) |
-| ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) | ![Compose Multiplatform](https://img.shields.io/badge/Compose_MP-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) | ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) |
-| ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) | ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) |
+### Android Arsenal
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+
+### Cross-Platform Tools
+<img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP"/> <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose MP"/> <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor"/>
+
+### iOS Gear
+<img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
 
 </div>
 
 ---
 
-## 🗺️ Quest Log
-
-```
-╔════════════════════════════════════════════════╗
-║  📱 MOBILE APPS CRAFTED                        ║
-║  ✅ Several apps deployed in production        ║
-║  🔒 Best work locked in private repos          ║
-║  🎯 Currently: Building cross-platform magic   ║
-║  ⚔️  Difficulty: HARDCORE                      ║
-╚════════════════════════════════════════════════╝
-```
+## 🗺️ Quest Progress
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
 ```
-    🏗️
-   /   \
-  /     \
- /  📱   \    Self-Employed App Developer
-/  ___    \   Crafting native & cross-platform experiences
-\ |   |  /    From Android to iOS, one commit at a time
- \|___|/
-   | |
-  _|_|_
+╔════════════════════════════════╗
+║  📱 MOBILE APPS DEPLOYED       ║
+║  ✅ Production apps running    ║
+║  🔒 Best work in private repos ║
+║  🎯 Cross-platform mastery     ║
+╚════════════════════════════════╝
 ```
+
+</td>
+<td>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" alt="Minecraft Building"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎒 What's in My Crafting Table?
+## 💼 Character Stats
 
 ```kotlin
-class YuvrajDev : AndroidDeveloper() {
+class YuvrajDev : MobileDeveloper() {
     
-    val currentFocus = listOf(
-        "📱 Native Android (Kotlin + Jetpack Compose)",
-        "🌐 KMP (Kotlin Multiplatform)",
-        "🍎 iOS (SwiftUI)",
-        "🎨 Beautiful UIs that users love"
+    override val expertise = listOf(
+        "📱 Native Android",
+        "🌐 Kotlin Multiplatform", 
+        "🍎 iOS Development",
+        "🎨 Pixel-Perfect UIs"
     )
     
-    val workMode = WorkMode.SELF_EMPLOYED
+    override val workMode = "Self-Employed"
     
-    val motto = "Keep it simple, keep it fun, ship it fast 🚀"
+    override val approach = "Simple. Fun. Fast."
     
-    fun buildApps() {
-        while (true) {
-            code()
-            test()
-            refactor()
-            ship()
-        }
+    fun craft() = repeat(∞) {
+        design() + code() + test() + ship()
     }
 }
 ```
 
 ---
 
-## 🏰 Wanna Collaborate?
+## 🎯 Currently Mining
 
 <div align="center">
 
-```
-        ⚡
-    ___/___\___
-   |           |
-   |  📧 DM    |    Let's build something cool together!
-   |   ME!     |    Hit me up on LinkedIn or check my portfolio
-   |___________|
-       |   |
-      _|   |_
-```
+| 🔨 Focus Area | 🎮 Status |
+|:---:|:---:|
+| Native Android Apps | ![](https://img.shields.io/badge/⚡_Expert-success) |
+| Kotlin Multiplatform | ![](https://img.shields.io/badge/🚀_Building-blue) |
+| SwiftUI for iOS | ![](https://img.shields.io/badge/📚_Learning-orange) |
+| Beautiful UX/UI | ![](https://img.shields.io/badge/🎨_Always-purple) |
 
-**[🌐 Visit My Portfolio](https://portfolio-yuvraj.onrender.com/)** | **[💼 Connect on LinkedIn](https://www.linkedin.com/in/yuvrajsinghrathore25)**
+</div>
+
+---
+
+## 💬 Want to Team Up?
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" alt="Minecraft Handshake"/>
+
+**Let's build something awesome together!**
+
+**[🌐 Check My Work](https://portfolio-yuvraj.onrender.com/)** • **[💼 Let's Connect](https://www.linkedin.com/in/yuvrajsinghrathore25)**
 
 </div>
 
@@ -118,15 +114,18 @@ class YuvrajDev : AndroidDeveloper() {
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  "Important repos are private. Better luck next time 😉" ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  "Important repos are private.                  │
+│   Better luck next time 😉"                     │
+│                                                 │
+└─────────────────────────────────────────────────┘
 ```
 
-![Minecraft Grass Block](https://i.imgur.com/YQPqMkj.png)
+<img src="https://i.imgur.com/kRalGde.gif" width="300" alt="Minecraft Grass Block"/>
 
-*Coded with ☕ and late-night debugging sessions*
+*Crafted with ☕ and countless debug sessions*
+
+![](https://komarev.com/ghpvc/?username=pixel-yuvraj&color=green&style=flat-square&label=Profile+Views)
 
 </div>
