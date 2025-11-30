@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ Welcome to Yuvraj's World
+# ⚔️ Welcome
 
 ```
 ██╗   ██╗██╗   ██╗██╗   ██╗██████╗  █████╗      ██╗
